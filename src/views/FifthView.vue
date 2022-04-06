@@ -6,7 +6,7 @@
       <p>나날을 꿈꿉니다.</p>
     </div>
     <div class="go-surf-wrapper">
-      <a href="https://elvanov.com/2195" target="_blank">이 코드의 설명을 보려면 여기를 눌르세요.</a>
+      <p>이 코드의 설명을 보려면 여기를 눌르세요.</p>
     </div>
   </div>
 </template>
