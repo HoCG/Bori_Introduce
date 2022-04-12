@@ -1,12 +1,22 @@
 <template>
-    <div class="slide-big-text">
-      <p>저의 다양한 컨텐츠 제작 능력들을 소개해드리죠.</p>
-    </div>
+  <div class="dog-box">
+    <BaDukEi></BaDukEi>
+    <BaDukEi></BaDukEi>
+    <BaDukEi></BaDukEi>
+    <BaDukEi></BaDukEi>
+  </div>
 </template>
 <script>
+import BaDukEi from "@/components/BaDukEi.vue";
+//import WelshCorgi from "@/components/WelshCorgi.vue"
 export default {
-  
+  components: {
+    BaDukEi
+  }
 }
 </script>
 <style>
+  .dog-box  {
+    display: flex;
+  }
 </style>
