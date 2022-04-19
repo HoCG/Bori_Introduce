@@ -4,7 +4,7 @@
       <div class="carousel_box">
         <div class="carousel_list clearfix">
           <div class="carousel_content carousel01">
-            <p>1</p>
+            <p>Hi</p>
           </div>
           <div class="carousel_content carousel02">
             <p>2</p>
